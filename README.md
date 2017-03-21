@@ -1,5 +1,4 @@
 # hello-world
-suh, another repository here
 
 Hello, hello!!!111!
 
